@@ -1,0 +1,14 @@
+/* Background Gradient with Pink, Purple, and Orange */
+body {
+    background: linear-gradient(to right, #ff66b2, #9b59b6, #ff6600);
+    height: 100vh; /* Full height of the viewport */
+    margin: 0; /* Remove default margin */
+    font-family: Arial, sans-serif; /* Optional font */
+}
+
+/* Optional styles for the text to stand out on the gradient */
+h1, p {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
